@@ -1,2 +1,2 @@
 # Sequencing-Animations
-Sequencing animations in webpage
+Sequencing animations in webpage using Java
